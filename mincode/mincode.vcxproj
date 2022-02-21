@@ -158,6 +158,12 @@
     <ClCompile Include="level_24_5.cpp" />
     <ClCompile Include="level_24_7.cpp" />
     <ClCompile Include="level_24_8.cpp" />
+    <ClCompile Include="level_25_1.cpp" />
+    <ClCompile Include="level_25_2.cpp" />
+    <ClCompile Include="level_25_3.cpp" />
+    <ClCompile Include="level_25_4.cpp" />
+    <ClCompile Include="level_25_5.cpp" />
+    <ClCompile Include="level_25_6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
