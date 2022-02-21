@@ -144,8 +144,10 @@
     <ClCompile Include="level_23.5_4.cpp" />
     <ClCompile Include="level_23.5_5.cpp" />
     <ClCompile Include="level_23.5_6.cpp" />
+    <ClCompile Include="level_23_1.cpp" />
     <ClCompile Include="level_23_3.cpp" />
     <ClCompile Include="level_23.5_1.cpp" />
+    <ClCompile Include="level_23_5.cpp" />
     <ClCompile Include="level_23_6.cpp" />
     <ClCompile Include="level_23_2.cpp" />
   </ItemGroup>
