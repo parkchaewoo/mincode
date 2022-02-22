@@ -164,6 +164,16 @@
     <ClCompile Include="level_25_4.cpp" />
     <ClCompile Include="level_25_5.cpp" />
     <ClCompile Include="level_25_6.cpp" />
+    <ClCompile Include="level_26_10.cpp" />
+    <ClCompile Include="level_26_2.cpp" />
+    <ClCompile Include="level_26_1.cpp" />
+    <ClCompile Include="level_26_3.cpp" />
+    <ClCompile Include="level_26_4.cpp" />
+    <ClCompile Include="level_26_5.cpp" />
+    <ClCompile Include="level_26_6.cpp" />
+    <ClCompile Include="level_26_7.cpp" />
+    <ClCompile Include="level_26_8.cpp" />
+    <ClCompile Include="level_26_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
