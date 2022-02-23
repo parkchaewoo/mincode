@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\level_25.5">
       <UniqueIdentifier>{ef4e0b1a-6c92-4e63-829d-9f57fbe535b4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\level_28">
+      <UniqueIdentifier>{2d5a9866-76f1-4ded-ac35-916036acd379}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="level_23.5_1.cpp">
@@ -176,6 +179,42 @@
     </ClCompile>
     <ClCompile Include="level_25.5_1.cpp">
       <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_25.5_2.cpp">
+      <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_25.5_3.cpp">
+      <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_25.5_4.cpp">
+      <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_25.5_5.cpp">
+      <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_25.5_6.cpp">
+      <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_25.5_7.cpp">
+      <Filter>소스 파일\level_25.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_28_1.cpp">
+      <Filter>소스 파일\level_28</Filter>
+    </ClCompile>
+    <ClCompile Include="level_28_2.cpp">
+      <Filter>소스 파일\level_28</Filter>
+    </ClCompile>
+    <ClCompile Include="level_28_3.cpp">
+      <Filter>소스 파일\level_28</Filter>
+    </ClCompile>
+    <ClCompile Include="level_28_4.cpp">
+      <Filter>소스 파일\level_28</Filter>
+    </ClCompile>
+    <ClCompile Include="level_28_5.cpp">
+      <Filter>소스 파일\level_28</Filter>
+    </ClCompile>
+    <ClCompile Include="level_28_6.cpp">
+      <Filter>소스 파일\level_28</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
