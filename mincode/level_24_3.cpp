@@ -8,15 +8,19 @@
 //vector<string> v;
 //vector<string> name;
 //int cnt = 0;
+//string findSentence = "CHRISTMAS";
 //void sol(int nowLevel) {
 //	string str = "";
 //	for (int i = 0; i < nowLevel; i++) str += v[i];
-//	cout << str << endl;
-//	if (str == "CHRISTMAS") {
+//	if (str == findSentence && nowLevel == 4) {
+//		//for (int i = 0; i < nowLevel; i++) cout << v[i] << ' ';
+//		
+//		//cout << str << endl;
 //		cnt++;
 //		return;
 //	}
 //	if (nowLevel >= level) return;
+//	if (findSentence.find(str) == findSentence.npos) return;
 //	
 //	
 //
