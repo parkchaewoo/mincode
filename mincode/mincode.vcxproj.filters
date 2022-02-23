@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\level_28">
       <UniqueIdentifier>{2d5a9866-76f1-4ded-ac35-916036acd379}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\level_28.5">
+      <UniqueIdentifier>{4b5d7a77-5ec4-41cc-b8a4-fbc2de298a5b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="level_23.5_1.cpp">
