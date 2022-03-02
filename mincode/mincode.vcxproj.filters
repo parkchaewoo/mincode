@@ -43,6 +43,15 @@
     <Filter Include="소스 파일\level_29.5">
       <UniqueIdentifier>{80fa929c-dfcc-4818-9ae2-db101b21fc6f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\level_30">
+      <UniqueIdentifier>{f36fd8d2-957c-4845-916c-68ad9eada214}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\level_30.5">
+      <UniqueIdentifier>{a56dfb20-8c52-4908-a8ce-06d0d8e84727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\level_31">
+      <UniqueIdentifier>{ad9a2856-6cdb-4ed1-81f5-f5e85b2ef60d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="level_23.5_1.cpp">
@@ -248,6 +257,66 @@
     </ClCompile>
     <ClCompile Include="level_29.5_6.cpp">
       <Filter>소스 파일\level_29.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_29.5_7.cpp">
+      <Filter>소스 파일\level_29.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_29.5_8.cpp">
+      <Filter>소스 파일\level_29.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_29.5_9.cpp">
+      <Filter>소스 파일\level_29.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30_1.cpp">
+      <Filter>소스 파일\level_30</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30_2.cpp">
+      <Filter>소스 파일\level_30</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30_3.cpp">
+      <Filter>소스 파일\level_30</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30_4.cpp">
+      <Filter>소스 파일\level_30</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_1_backUp.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_2.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_3.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_4.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_5.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_6.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_30.5_7.cpp">
+      <Filter>소스 파일\level_30.5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_31_2.cpp">
+      <Filter>소스 파일\level_31</Filter>
+    </ClCompile>
+    <ClCompile Include="level_31_3.cpp">
+      <Filter>소스 파일\level_31</Filter>
+    </ClCompile>
+    <ClCompile Include="level_31_4.cpp">
+      <Filter>소스 파일\level_31</Filter>
+    </ClCompile>
+    <ClCompile Include="level_31_5.cpp">
+      <Filter>소스 파일\level_31</Filter>
+    </ClCompile>
+    <ClCompile Include="level_31_6.cpp">
+      <Filter>소스 파일\level_31</Filter>
+    </ClCompile>
+    <ClCompile Include="level_31_7.cpp">
+      <Filter>소스 파일\level_31</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
